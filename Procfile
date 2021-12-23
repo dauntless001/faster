@@ -1,0 +1,1 @@
+web: gunicorn faster.wsgi --preload --log-file -
